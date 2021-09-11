@@ -14,4 +14,4 @@ Skills: C/C++ | HTML | CSS | JS
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarn17&show_icons=true)  
 <br>
-![Profile views](https://gpvc.arturio.dev/sanskarn17)  
+![Profile views](https://komarev.com/ghpvc/?username=sanskarn17&label=Profile%20views&color=0e75b6&style=flat)  
