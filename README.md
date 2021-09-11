@@ -1,11 +1,17 @@
-# Hi :wave:, I'm ***Sanskar Nougrahiya.***
+### Hi, 👋 I'm Sanskar Nougrahiya.
+I'm a 2nd-year undergrad @ IET-DAVV pursuing CSE.
+Currently exploring Web D, CP and got highly fascinated by open-source. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-sanskarnougrahiya17-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanskarnougrahiya17/)](https://www.linkedin.com/in/sanskarnougrahiya17/)  [![Github Badge](https://img.shields.io/badge/-sanskarn17-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sanskarn17/)](https://www.github.com/sanskarn17/) [![Twitter Badge](https://img.shields.io/badge/-sanskarn17-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/sanskarn17/)](https://www.twitter.com/sanskarn17/) <p align='left'>I'm a 2nd-year undergrad. @ IET-DAVV pursuing CSE.
-Currently exploring Web D and CP.
-</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sanskarn17 alt=sanskarn17 /> </p>
+Skills: C/C++ | HTML | CSS | JS
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sanskarn17&show_icons=true&include_all_commits=true)](https://github.com/sanskarn17/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarn17&layout=compact)](https://github.com/sanskarn17/github-readme-stats)
+- 🔭 I’m currently working on a personal website. 
+- 🌱 I’m currently learning Javascript and DS & Algo. 
+- 🤔 I’m looking for help with Web D and open source. 
+- ⚡ Fun fact: Music is the synonym for oxygen. 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sanskarn17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sanskarn17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanskarnougrahiya17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sanskarn17/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sanskarn17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16874461)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sanskarn17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sanskarn17.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/sanskarn17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/sanskarn17)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarn17&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/sanskarn17)  
