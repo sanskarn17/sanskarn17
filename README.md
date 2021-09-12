@@ -1,7 +1,7 @@
 <h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <b><i>Sanskar Nougrahiya.</i></b></h1> <br>
 I'm a 2nd-year undergrad @ IET-DAVV pursuing CSE.
 Currently exploring Web D, CP and got highly fascinated by open-source. 
-<br>
+<br></br>
 
 Skills: C/C++ | HTML | CSS | JS
 
