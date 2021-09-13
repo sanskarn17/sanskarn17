@@ -19,4 +19,5 @@ Skills: C/C++ | HTML | CSS | JS
 <br></br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarn17&show_icons=true)  
 <br>
-![Profile views](https://komarev.com/ghpvc/?username=sanskarn17&label=Profile%20views&color=0e75b6&style=flat)  
+![Profile views](https://komarev.com/ghpvc/?username=sanskarn17&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://github.com/sanskarn17?tab=followers"><img src="https://img.shields.io/github/followers/sanskarn17?style=social" alt="GitHub Badge"></a>
