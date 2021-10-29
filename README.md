@@ -6,7 +6,7 @@ Currently exploring Web D, CP and got highly fascinated by open-source.
 
 Skills: C/C++ | HTML | CSS | JS
 
-- 🔭 I’m currently working on a personal website. 
+- 🔭 I’m currently enjoying CP and working on a personal website. 
 - 🌱 I’m currently learning Javascript and DS & Algo. 
 - 🤔 I’m looking for help with Web D and open source. 
 - ⚡ Fun fact: Music is the synonym for oxygen. 
