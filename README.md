@@ -1,16 +1,5 @@
 <h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm <b><i>Sanskar Nougrahiya.</i></b></h1> <br>
-I'm a 2nd-year undergrad @ IET-DAVV pursuing CSE.
-Currently exploring Web D, CP and got highly fascinated by open-source. 
-<br></br>
-
-
-Skills: C/C++ | HTML | CSS | JS
-
-- 🔭 I’m currently enjoying CP and working on a personal website. 
-- 🌱 I’m currently learning Javascript and DS & Algo. 
-- 🤔 I’m looking for help with Web D and open source. 
-- ⚡ Fun fact: Music is the synonym for oxygen. 
-<br>
+I'm a 4th undergrad @ IET-DAVV pursuing CSE.
 
 ### Connect With Me Here:
 <br>
